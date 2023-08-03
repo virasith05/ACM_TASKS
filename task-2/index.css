@@ -1,0 +1,247 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.Experience{
+    text-align: center;
+
+}
+
+.back3{
+    width: 100%;
+    height: 100vh;
+    background-image: url(maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+
+.amma{
+    width: 100%;
+    height: 100vh;
+    background-image: url(amma-devi_1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-size: 20px;
+}
+
+.video3{
+    float: right;
+    position: relative;
+    bottom: -300px;
+    left: -20px;
+
+}
+
+.text3{
+    text-align: center;
+}
+
+.video1{
+    float: left;
+    position: relative;
+    bottom: 25px;
+    left: 175px;
+
+}
+
+.video2{
+    float: left;
+    position: relative;
+    bottom: -300px;
+    left: 20px;
+}
+
+.home3 a{
+    text-align: end;
+    font-size: 25px;
+    color:whitesmoke;
+    position: relative;
+    left: 1450px;
+    bottom: -10px;
+}
+
+.home3 a:hover{
+    color:azure;
+    height: 30px;
+}
+
+
+.amma3{
+    width: 22%;
+    padding: 1.5%;
+    height: 100px;
+    float: left;
+    text-align: center;
+}
+
+.amma3 img{
+    width: 100%;
+}
+
+.home2 a{
+    text-align: end;
+    font-size: 25px;
+    color: black;
+    position: relative;
+    left: 1450px;
+    bottom: -10px;
+}
+
+.home2 a:hover{
+    color:azure;
+    height: 30px;
+}
+
+.meet{
+    text-align: center;
+}
+
+.exper1{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(acm_desktopcta.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+
+.acm{
+    color: white;
+    font-size: 20px;
+}
+
+.acmmain{
+    text-align: center;
+    color: whitesmoke;
+}
+
+
+.web{
+    width: 17%;
+    padding: 1.5%;
+    height: 10px;
+    float: left;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.web img{
+    width: 100%;
+}
+
+.ai{
+    width: 17%;
+    padding: 1.5%;
+    height: 10px;
+    float: left;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.ai img{
+    width: 100%;
+}
+.cp{
+    width: 17%;
+    padding: 1.5%;
+    height: 10px;
+    float: left;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.cp img{
+    width: 100%;
+}
+.glitch{
+    width: 17%;
+    padding: 1.5%;
+    height: 10px;
+    float: left;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.glitch img{
+    width: 100%;
+}
+.cs{
+    width: 17%;
+    padding: 1.5%;
+    height: 10px;
+    float: left;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.cs img{
+    width: 100%;
+}
+
+.acm1{
+    margin-left: 3rem;
+    color: white;
+    font-size: 20px;
+}
+
+.home1 a{
+    text-align: end;
+    font-size: 25px;
+    color:whitesmoke;
+    position: relative;
+    left: 1450px;
+    bottom: -10px;
+}
+
+.home1 a:hover{
+    color:azure;
+    height: 30px;
+}
+
+.back{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(13-amritapuri.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+.mainexp{
+    font-size: 80px;
+}
+
+.subexp{
+    font-size: 35px;
+}
+
+.Experience{
+    background-image: url(experience.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.am-nav a{
+    text-align: end;
+    font-size: 25px;
+    color:whitesmoke;
+    position: relative;
+    left: 1200px;
+    bottom: -10px;
+}
+
+.am-nav a:hover{
+    color:azure;
+    height: 30px;
+}
+
+.matter{
+    color: azure;
+    font-size: 35px;
+    text-align: center;
+    position: relative;
+    top: 250px;
+
+}
