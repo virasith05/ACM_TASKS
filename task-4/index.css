@@ -1,0 +1,37 @@
+.mainheading{
+    text-align: center;
+    font-size: 50px;
+}
+
+#pagination{
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+#gameTable{
+    height: 450px;
+
+}
+
+.main{
+    background-image: url(pexels-photo-255379.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box1{
+    font-size: 30px;
+}
+
+.box2{
+    font-size: 30px;
+}
+
+.box3{
+    font-size: 30px;
+}
+
+.box4{
+    font-size: 30px;
+}
